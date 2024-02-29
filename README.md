@@ -30,8 +30,3 @@ Explored advanced low-level programming concepts including:
 - Binary manipulation
 
 Additional practical implementations are available in my [Binary Coding Practices](https://github.com/mrjex/Embedded-and-Real-Time-Systems/tree/main/binary-coding-practice) repository.
-
-
----
-
-*Built with a passion for low-level programming*
