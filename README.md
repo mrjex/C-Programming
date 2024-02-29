@@ -1,12 +1,37 @@
-# C-Programming
+# 🔧 C Programming
 
-In 2024, January-March, I attended the course [Development of Embedded & Real-Time Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/5.%20Development%20of%20Embedded%20&%20Real-Time%20Systems?ref_type=heads) where I worked with C-algorithms and Tinkercad. Eventually, at the end of the course we worked with real hardware components and used our the electrical connections we made in Tinkercad as a simulation of debugging
+> Exploring embedded systems, algorithms, and low-level programming concepts
 
-## joel-algorithm.c
+[![C](https://img.shields.io/badge/C-Programming-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Embedded](https://img.shields.io/badge/Embedded-Systems-orange)](https://en.wikipedia.org/wiki/Embedded_system)
+[![TinkerCad](https://img.shields.io/badge/TinkerCad-Simulation-green)](https://www.tinkercad.com/)
+[![Hardware](https://img.shields.io/badge/Hardware-Implementation-red)](https://www.arduino.cc/)
 
-This file contains my own algorithm that I came up with after I completed the course [Development of Embedded & Real-Time Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/5.%20Development%20of%20Embedded%20&%20Real-Time%20Systems?ref_type=heads). My other C-programming experience can be found in the directory of the 'Development of Embedded & Real-Time Systems'
+## 📑 Table of Contents
+- [🔧 C Programming](#-c-programming)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [🎯 Overview](#-overview)
+  - [💡 Custom Algorithm Implementation](#-custom-algorithm-implementation)
+  - [⚡ Binary Operations](#-binary-operations)
+
+## 🎯 Overview
+
+During January-March 2024, I deepened my understanding of C programming through the [Embedded & Real-Time Systems](https://github.com/mrjex/Embedded-and-Real-Time-Systems) course. The journey progressed from algorithmic implementations to hardware integration using TinkerCad simulations and physical components.
+
+## 💡 Custom Algorithm Implementation
+
+The `joel-algorithm.c` file showcases my original algorithm developed post-course completion, demonstrating practical application of learned concepts and creative problem-solving in C.
+
+## ⚡ Binary Operations
+
+Explored advanced low-level programming concepts including:
+- Bitpacking techniques
+- Bitwise operations
+- Binary manipulation
+
+Additional practical implementations are available in my [Binary Coding Practices](https://github.com/mrjex/Embedded-and-Real-Time-Systems/tree/main/binary-coding-practice) repository.
 
 
-## Bitpacking and Bitwise Operations
+---
 
-Furthermore, I familiarized myself with the concepts of Bitpacking and Bitwise operations and gained hands-on practical experience in my repository [Binary Coding Practices](https://github.com/mrjex/Embedded-and-Real-Time-Systems/tree/main/code/binary-coding-practice)
+*Built with a passion for low-level programming*
