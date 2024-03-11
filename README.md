@@ -1,13 +1,8 @@
-# 🔧 Programming
+# Programming
 
-[![C](https://img.shields.io/badge/C-Programming-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Embedded](https://img.shields.io/badge/Embedded-Systems-orange)](https://en.wikipedia.org/wiki/Embedded_system)
-[![TinkerCad](https://img.shields.io/badge/TinkerCad-Simulation-green)](https://www.tinkercad.com/)
-[![Hardware](https://img.shields.io/badge/Hardware-Implementation-red)](https://www.arduino.cc/)
-
-## 📑 Table of Contents
-- [🔧 Programming](#-programming)
-  - [📑 Table of Contents](#-table-of-contents)
+## Table of Contents
+- [Programming](#programming)
+  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Custom Algorithm Implementation](#custom-algorithm-implementation)
   - [Binary Operations](#binary-operations)
